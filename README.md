@@ -9,3 +9,4 @@ explains:      ["adj. 普遍存在的；无所不在的"]<br>
 
 通过一个命令简化平时遇到单词需要通过打开浏览器、输入网址、输入单词、点击查询的复杂过程。<br>
 内部调用了网易有道的开放翻译api。<br>
+在linux环境下增加一个alias，更方便使用： alias trans="ruby ~/rubyspace/translate.rb"
